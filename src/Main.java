@@ -3,7 +3,7 @@ class MyClass {
         int c = a + b; // Сума двох чисел
         return c;
     }    public static void main(String[] args) {
-        int num1 = 10;
+        int num1 = 5;
         int num2 = 5;
         int result = myMethod(num1, num2);
         System.out.println("Result: " + result);
